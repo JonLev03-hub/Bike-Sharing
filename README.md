@@ -18,6 +18,7 @@ I would assume that people who use the bikes regularly to go to work would have 
 Inside of the chart you see that most of the usage is done by members, but the assumption I make from this data is people who don't have subscriptions are likely tourists because they are more commonly going to places such as central park, or the coast (Commonly more touristy places). Subscribers the locations are a bit more spread out but it seems that they are concentrated inside of the city where more jobs would be located. This leads me to believe that many subscribers use the bikes for regular transportation.
 
 You can also see that subscribers provide most of the rides with the chart below; Further supporting the point.
+
 ![image](https://user-images.githubusercontent.com/81537476/147742924-dcee28a6-faf4-4412-95c0-90e6aceb83dd.png)
 ![image](https://user-images.githubusercontent.com/81537476/147742943-66584859-80fb-4d78-a5d4-7488086dd668.png)
 
@@ -29,8 +30,13 @@ This first chart displays the number of rides done by age. As many would assume 
 In this chart you can also see that the majority of riders are Male. To ensure that this is actually an audience a company like this wants to cater directly to, we need to ensure that they aren't just doing the most trips, but also are providing the most ride time, since that is how the company would make money. For this I have created a chart that displays the count of ride times by gender.
 ![image](https://user-images.githubusercontent.com/81537476/147742682-b3b3bcbd-a0d6-499d-9f6a-1d4ddc4bb5cb.png)
 This chart shows that this is the audience that will produce the most money. 
-# Summary
 
+## Summary
+ To ensure that a bike sharing company would thrive in a new city you need to make sure that the city has the same type of customer base as a tested city. Based off of the graphs provided from this analysis the bike sharings largest customer base is young men who are trying to avoid traffic and the subway when going to work. If you wanted to ensure that this type of person is in high concentration in a new city it would be a good idea to create a visualization comparing the two cities age and gender perportions for the residents. 
+ 
+ There is also a decent customer base that is based off of tourism, so in new cities it would be a good idea to place some bike stations near tourist sites. This is not the largest group of individuals likely to use the bikes but it is definitely a good part of the income. 
+ 
+ A second chart that should been investigated is a chart that compares the weather for NYC in comparison to the amount of rides taht day. This could be done by getting weather data from a historical weather api, and then combining the tables. If this was done you could compare the weatehr to rides, and see the optimal weather patterns for a bike sharing company, then compare it to the new potential location. 
 
 
 
